@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<update>
+  <command>
+    <url name="config_package_V20251124.01.tar.gz" force="true">https://raw.githubusercontent.com/Aviciiii/ott/main/updates/config_package_V20251124.01.tar.gz</url>
+    <md5 name="config_package_V20251124.01.tar.gz">0A892520F65C4FAEE0FDE4A10394E3FE</md5>
+    <storagemem>4536</storagemem>
+    <description name="Nexus" version="1.7.4" package="com.abc.nexus">
+      1. Updated application
+      2. Fixed known issues
+    </description>
+  </command>
+</update>
