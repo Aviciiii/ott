@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<updata>
+   <command action_type="1" force="true" name="update_with_inc_ota">
+      <url name="update.zip" force="true" locattr="" updatezip="true">https://github.com/szwzy43/wzy/releases/download/v1.0/IPx1-oppen-ota-R3.20251118.zip</url>
+      <md5 name="update.zip">DE9FAC4716E4AA669E9EF5163D1773E4</md5>
+      <storagemem>1324</storagemem>
+	<description country="CN" language="zh">
+	1.Solve the problem that Youtube cannot play
+	2.Fixed some known issues
+	</description>
+	<description country="US" language="en">
+	1.Solve the problem that Youtube cannot play
+	2.Fixed some known issues
+	</description>
+   </command>
+</updata>
