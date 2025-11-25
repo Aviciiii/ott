@@ -2,8 +2,8 @@
 <update>
   <command>
     <url name="config_package_V20251125.01.tar.gz" force="true">https://raw.githubusercontent.com/Aviciiii/ott/main/updates/config_package_V20251125.01.tar.gz</url>
-    <md5 name="config_package_V20251125.01.tar.gz">9AF6003060A876BA1CDB34C1E5D5F35A</md5>
-    <storagemem>31747</storagemem>
+    <md5 name="config_package_V20251125.01.tar.gz">428632AFDDBCF9971E29B3FFD164420E</md5>
+    <storagemem>40817</storagemem>
     <description name="Nexus" version="1.7.4" package="com.abc.nexus">
       1. Updated application
       2. Fixed known issues
@@ -29,6 +29,14 @@
       2. Fixed known issues
     </description>
     <description name="Nexus" version="1.7.4" package="com.abc.nexus7">
+      1. Updated application
+      2. Fixed known issues
+    </description>
+    <description name="Nexus" version="1.7.4" package="com.abc.nexus33">
+      1. Updated application
+      2. Fixed known issues
+    </description>
+    <description name="Nexus" version="1.7.4" package="com.abc.nexus3434">
       1. Updated application
       2. Fixed known issues
     </description>
