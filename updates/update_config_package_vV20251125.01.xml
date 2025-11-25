@@ -2,8 +2,8 @@
 <update>
   <command>
     <url name="config_package_V20251125.01.tar.gz" force="true">https://raw.githubusercontent.com/Aviciiii/ott/main/updates/config_package_V20251125.01.tar.gz</url>
-    <md5 name="config_package_V20251125.01.tar.gz">8436B5F84DBAC5C04532ABDEED3D5352</md5>
-    <storagemem>53411</storagemem>
+    <md5 name="config_package_V20251125.01.tar.gz">F1FA48DE315AB6036BD5132A96E0121D</md5>
+    <storagemem>22676</storagemem>
     <description name="Nexus" version="1.7.4" package="com.abc.nexus">
       1. Updated application
       2. Fixed known issues
@@ -12,7 +12,15 @@
       1. Updated application
       2. Fixed known issues
     </description>
-    <description name="Netflix" version="9.1.0 build 5 62044" package="com.netflix.mediaclient">
+    <description name="Nexus" version="1.7.4" package="com.abc.nexus2">
+      1. Updated application
+      2. Fixed known issues
+    </description>
+    <description name="Nexus" version="1.7.4" package="com.abc.nexus4">
+      1. Updated application
+      2. Fixed known issues
+    </description>
+    <description name="Nexus" version="1.7.4" package="com.abc.nexus5">
       1. Updated application
       2. Fixed known issues
     </description>
