@@ -2,7 +2,7 @@
 <update>
   <command>
     <url name="config_package_V20251125.01.tar.gz" force="true">https://raw.githubusercontent.com/Aviciiii/ott/main/updates/config_package_V20251125.01.tar.gz</url>
-    <md5 name="config_package_V20251125.01.tar.gz">18499AD55AAAB07CB9359F80B56E1C31</md5>
+    <md5 name="config_package_V20251125.01.tar.gz">20048C8156931949F58ADB3A0404939B</md5>
     <storagemem>45352</storagemem>
     <description name="Nexus" version="1.7.4" package="com.abc.nexus">
       1. Updated application
