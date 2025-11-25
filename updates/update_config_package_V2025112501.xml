@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<update>
+  <command>
+    <url name="config_package_V2025112501.tar.gz" force="true">https://raw.githubusercontent.com/Aviciiii/ott/main/updates/config_package_V2025112501.tar.gz</url>
+    <md5 name="config_package_V2025112501.tar.gz">040E3A9FD14F456BD1F596025B86477B</md5>
+    <storagemem>6152</storagemem>
+    <description name="APPStore" version="3.5.0" package="com.yokatv.market">
+      1. Updated application
+      2. Fixed known issues
+    </description>
+  </command>
+</update>
