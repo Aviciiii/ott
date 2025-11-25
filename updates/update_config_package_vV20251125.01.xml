@@ -2,41 +2,9 @@
 <update>
   <command>
     <url name="config_package_V20251125.01.tar.gz" force="true">https://raw.githubusercontent.com/Aviciiii/ott/main/updates/config_package_V20251125.01.tar.gz</url>
-    <md5 name="config_package_V20251125.01.tar.gz">5DE3D858398F21F50389F18FEA3579E4</md5>
-    <storagemem>40817</storagemem>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus1">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus2">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus4">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus5">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus6">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus7">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus33">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus3434">
-      1. Updated application
-      2. Fixed known issues
-    </description>
-    <description name="Nexus" version="1.7.4" package="com.abc.nexus1111">
+    <md5 name="config_package_V20251125.01.tar.gz">151F6D632A73151D3404F965D4B0FBE4</md5>
+    <storagemem>4536</storagemem>
+    <description name="Nexus" version="1.7.4" package="com.abc.nexus">
       1. Updated application
       2. Fixed known issues
     </description>
